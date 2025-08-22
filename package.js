@@ -133,7 +133,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
  
             <div class="qr-container" id="qr-section">
-                <img src="https://agenbosbet368.xocsoft.com/assets/img/bank_admin/7845448456_inshot_20250715_191738382.jpg" alt="QR Code">
+                <img src="https://i.ibb.co.com/N64N6y4X/In-Shot-20250715-191738382.jpg" alt="QR Code">
                 <br>
                 <button class="btn-download" onclick="alert('QR Code diunduh!')">Unduh QR Code</button>
             </div>
